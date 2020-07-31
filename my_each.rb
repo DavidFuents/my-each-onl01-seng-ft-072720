@@ -1,5 +1,5 @@
 def my_each(array)
-  counter = 
+  i = 0
   
   while array.length > 0 
 end
